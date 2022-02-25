@@ -9,4 +9,4 @@
 - [NIJIUTA](https://www.nijiuta.com)
   - にじさんじの歌動画を簡単に視聴できるWebサービス
   - 2022/02/23〜
-  - [紹介ツイート](https://twitter.com/VTubersOfficial/status/1496395861303382016)は1日で8000RT, 2万5000いいね, 130万インプレッション
+  - [紹介ツイート](https://twitter.com/VTubersOfficial/status/1496395861303382016)は1日で8000RT, 2.5万いいね
